@@ -31,56 +31,18 @@
 ### 👉 Backend Development
 <p align="left">
 	&emsp;
-	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+	<a href="https://www.javascript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   &emsp;
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"></a>
+
 </p>
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
  
  
- ### 👉 Data Science and Machine Learning
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Numpy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40">
-  </a> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Matplotlib Logo" src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40">
-  </a>  
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Seaborn Logo" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" height="40">
-  </a>
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Scikit-learn Logo" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40">
-  </a>
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="TensorFlow Logo" src="https://www.tensorflow.org/images/tf_logo_social.png" width="40" height="40">
-  </a>
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="OpenCV Logo" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" height="40">
-  </a>
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="PyTorch Logo" src="https://pytorch.org/assets/images/pytorch-logo.png" width="40" height="40">
-  </a>
-   &emsp;
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  &emsp;
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
-</a>
+ 
+  
+ 
 
 </p>
 
@@ -91,8 +53,6 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 	 &emsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
-  &emsp;
- <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"></a>
 	&emsp;	
   <a href="#"><img alt="Canva" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg?logo=canva&logoColor=white" width="40" height="40"></a>
   &emsp;
@@ -104,8 +64,6 @@
 <p align="left">
   &emsp;
       <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" alt="VSCode"></a>
-    &emsp;
-     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublimetext/sublimetext-wordmark.svg" width="40" height="40" alt="Sublime Text"></a>
  
 </p>
 
