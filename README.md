@@ -7,7 +7,7 @@
 
 ## :sassy_man:  About me
 - :technologist: I am a `Backend Developer` 
-- :school: I am also a `Computer Engineering Student` at  Enugu State University of Science and Technology
+- :school: I am also a Graduate of `Computer Engineering` at  Enugu State University of Science and Technology
 - :technologist: I love using Software as a solution for every `Problem`
 - 📝 I have a strong foundation and interest in `Software Engineering` and `Web developement`
 - :student: I’m currently learning: `Nodejs`, `Backend development`, `Database Management` and `Software Engineering`
@@ -32,6 +32,7 @@
 <p align="left">
 	&emsp;
 	<a href="https://www.javascript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+	<a href="https://www.typescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   &emsp;
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"></a>
 
@@ -56,6 +57,16 @@
 	&emsp;	
   <a href="#"><img alt="Canva" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg?logo=canva&logoColor=white" width="40" height="40"></a>
   &emsp;
+
+</p>
+### 👉 cloud service
+<p align="left">
+  &emsp;
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="URL_TO_AWS_LOGO" alt="AWS" width="40" height="40"/>
+</a>
+
+ &emsp;
 
 </p>
 
