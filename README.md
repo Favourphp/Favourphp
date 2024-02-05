@@ -10,7 +10,7 @@
 - :school: I am also a Graduate of `Computer Engineering` at  Enugu State University of Science and Technology
 - :technologist: I love using Software as a solution for every `Problem`
 - 📝 I have a strong foundation and interest in `Software Engineering` and `Web developement`
-- :student: I’m currently learning: `Nodejs`, `Backend development`, `Database Management` and `Software Engineering`
+- :technologist: I’m currently working with: `Nodejs`, `Backend development`, `Database Management` and `Software Engineering`
 - :nerd_face: Always `learning new things`
 
 <br>
