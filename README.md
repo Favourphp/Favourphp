@@ -66,13 +66,12 @@
   &emsp;
 
 </p>
+
 ### 👉 cloud service
+
 <p align="left">
   &emsp;
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="URL_TO_AWS_LOGO" alt="AWS" width="40" height="40"/>
-</a>
-
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="40" height="40"/> </a>
  &emsp;
 
 </p>
@@ -82,6 +81,9 @@
 <p align="left">
   &emsp;
       <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" alt="VSCode"></a>
+      &emsp;
+    <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sublime_text/sublime_text-ar21.svg" alt="Sublime Text" width="40" height="40"/> </a>
+ &emsp;
  
 </p>
 
