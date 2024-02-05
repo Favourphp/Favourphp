@@ -82,7 +82,7 @@
   &emsp;
       <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" alt="VSCode"></a>
       &emsp;
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://www.sublimetext.com/images/logo.svg" alt="Sublime Text" width="200" height=200"/> </a>
+  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://www.sublimetext.com/images/logo.svg" alt="Sublime Text" width="40" height=40"/> </a>
  &emsp;
  
 </p>
