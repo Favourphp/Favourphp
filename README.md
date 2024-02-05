@@ -47,6 +47,13 @@
 
 </p>
 
+### 👉 Database Management Systems
+ &emsp;
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width="40" height="40"/> </a>
+ &emsp;
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> </a>
+ &emsp;
+
 ### 👉 Software & Tools
  
 <p align="left">
