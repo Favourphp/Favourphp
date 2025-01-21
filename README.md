@@ -6,7 +6,7 @@
 
 
 ## :sassy_man:  About me
-- :technologist: I am a `Backend Developer` 
+- :technologist: I am a `Software Engineer` 
 - :school: I am also a Graduate of `Computer Engineering` at  Enugu State University of Science and Technology
 - :technologist: I love using Software as a solution for every `Problem`
 - 📝 I have a strong foundation and interest in `Software Engineering` and `Web developement`
